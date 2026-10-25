@@ -1,0 +1,6 @@
+{
+  "name": "GROZ — Premium Fashion & Accessories",
+  "description": "Editorial fashion and accessories brand based in Maijdee Court, Noakhali, Bangladesh. Minimalist silhouettes, precision craftsmanship, and bilingual English & Bangla digital experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

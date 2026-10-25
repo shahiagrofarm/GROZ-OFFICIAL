@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@layer base {
+  :root,
+  html.bright {
+    --bg-main: #faf9f6;
+    --bg-surface: #f1efea;
+    --text-main: #111111;
+    --text-muted: #5e5d59;
+    --border-main: rgba(17, 17, 17, 0.14);
+    --border-subtle: rgba(17, 17, 17, 0.08);
+    --accent-red: #d92626;
+  }
+
+  html.dark,
+  .dark {
+    --bg-main: #0a0a0a;
+    --bg-surface: #141414;
+    --text-main: #f5f4f0;
+    --text-muted: #96948f;
+    --border-main: rgba(245, 244, 240, 0.15);
+    --border-subtle: rgba(245, 244, 240, 0.08);
+    --accent-red: #e52b2b;
+  }
+
+  * {
+    border-radius: 0 !important;
+  }
+
+  body {
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-family: 'Cormorant Garamond', 'Noto Serif Bengali', serif;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    overflow-x: hidden;
+  }
+}
+
+.font-serif-editorial {
+  font-family: 'Cormorant Garamond', 'Noto Serif Bengali', Georgia, serif;
+}
+
+.font-mono-editorial {
+  font-family: 'JetBrains Mono', 'Hind Siliguri', 'Noto Serif Bengali', 'Courier New', Courier, monospace;
+}
+
+.font-sans-editorial {
+  font-family: 'Hind Siliguri', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Custom editorial styling */
+.text-groz-red {
+  color: var(--accent-red);
+}
+
+.bg-groz-red {
+  background-color: var(--accent-red);
+}
+
+.border-groz-red {
+  border-color: var(--accent-red);
+}
+
+.bg-groz-main {
+  background-color: var(--bg-main);
+}
+
+.bg-groz-surface {
+  background-color: var(--bg-surface);
+}
+
+.text-groz-main {
+  color: var(--text-main);
+}
+
+.text-groz-muted {
+  color: var(--text-muted);
+}
+
+.border-groz {
+  border-color: var(--border-main);
+}
+
+.border-groz-subtle {
+  border-color: var(--border-subtle);
+}
+
+/* Travelling cutout soft shadow constraint */
+.shadow-cutout {
+  filter: drop-shadow(0 20px 30px rgba(0, 0, 0, 0.25));
+}
+
+.dark .shadow-cutout {
+  filter: drop-shadow(0 25px 35px rgba(0, 0, 0, 0.65));
+}

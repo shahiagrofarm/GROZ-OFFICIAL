@@ -1,0 +1,383 @@
+[
+  {
+    "id": "groz-specimen-01",
+    "slug": "archival-structured-trench",
+    "nameEn": "Archival Structured Trench",
+    "nameBn": "আর্কাইভাল স্ট্রাকচার্ড ট্রেঞ্চ কোট",
+    "subtitleEn": "High-stance collar with concealed storm flap",
+    "subtitleBn": "উচ্চ কলার এবং গোপন স্টর্ম ফ্ল্যাপ সমন্বিত",
+    "category": "outerwear",
+    "priceBDT": 8400,
+    "salePriceBDT": 7800,
+    "image": "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg",
+    "gallery": [
+      "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg"
+    ],
+    "descriptionEn": "A severe, architectural overcoat cut with clean horizontal shoulder planes and monolithic proportions. Designed to hold shape regardless of stance.",
+    "descriptionBn": "পরিচ্ছন্ন আনুভূমিক কাঁধের কাটিং এবং মনোলিথিক অনুপাতে নির্মিত একটি স্থাপত্যসুলভ ওভারকোট। যেকোনো ভঙ্গিমায় আকৃতি অটুট রাখার উপযোগী করে তৈরি।",
+    "specifications": [
+      {
+        "labelEn": "Cut & Fit",
+        "labelBn": "কাট ও ফিট",
+        "valueEn": "Oversized Columnar Silhouette",
+        "valueBn": "ওভারসাইজড কলামনার সিলুয়েট"
+      },
+      {
+        "labelEn": "Lapel Stance",
+        "labelBn": "ল্যাপেল স্ট্যান্স",
+        "valueEn": "Convertible Funnel Lapel",
+        "valueBn": "রূপান্তরযোগ্য ফানেল ল্যাপেল"
+      },
+      {
+        "labelEn": "Closure",
+        "labelBn": "ক্লোজার",
+        "valueEn": "Concealed Atelier Snap System",
+        "valueBn": "কনসিলড স্ন্যাপ ফাস্টেনার"
+      },
+      {
+        "labelEn": "Origin",
+        "labelBn": "উৎস",
+        "valueEn": "Patterned in Maijdee Court",
+        "valueBn": "মাইজদী কোর্ট স্টুডিও প্যাটার্ন"
+      }
+    ],
+    "materialsStatusEn": "Specimen textile formulation under archival laboratory testing (TBC).",
+    "materialsStatusBn": "টেক্সটাইল স্পেসিফিকেশন ল্যাবরেটরি পরীক্ষারত (নিশ্চিতকরণাধীন)।",
+    "dimensionsEn": "Pattern Size: Medium / Length 118 cm (TBC)",
+    "dimensionsBn": "প্যাটার্ন সাইজ: মিডিয়াম / দৈর্ঘ্য ১১৮ সেমি (নিশ্চিতকরণাধীন)",
+    "colors": [
+      "Obsidian Black",
+      "Raw Charcoal",
+      "Crimson Seam"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stockStatus": "in_stock",
+    "stockQuantity": 14,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "isSale": true,
+    "isPublished": true,
+    "imageAlt": "GROZ Archival Structured Trench Coat with High Collar",
+    "createdAt": "2026-10-15T10:00:00.000Z",
+    "updatedAt": "2026-10-25T18:00:40.770Z"
+  },
+  {
+    "id": "groz-specimen-02",
+    "slug": "monolith-crossbody-courier",
+    "nameEn": "Monolith Crossbody Courier",
+    "nameBn": "মনোলিথ ক্রসবাডি কুরিয়ার ব্যাগ",
+    "subtitleEn": "Sharp bevel geometry with tensioned webbing strap",
+    "subtitleBn": "তীক্ষ্ণ বেভেল জ্যামিতি ও মজবুত স্ট্র্যাপ",
+    "category": "leather",
+    "priceBDT": 5200,
+    "image": "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg",
+    "gallery": [
+      "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg"
+    ],
+    "descriptionEn": "Angular cross-torso satchel engineered with reinforced structural gussets. Stripped of external pockets for pure visual restraint.",
+    "descriptionBn": "অভ্যন্তরীণ কাঠামোগত সুরক্ষাসহ নির্মিত কৌণিক স্যাচেল। বাহ্যিক অতিরিক্ত পকেট বর্জন করে বিশুদ্ধ রূপ বজায় রাখা হয়েছে।",
+    "specifications": [
+      {
+        "labelEn": "Volume",
+        "labelBn": "ধারণক্ষমতা",
+        "valueEn": "6.2 Liters Internal Envelope",
+        "valueBn": "৬.২ লিটার অভ্যন্তরীণ ধারণক্ষমতা"
+      },
+      {
+        "labelEn": "Strap System",
+        "labelBn": "স্ট্র্যাপ সিস্টেম",
+        "valueEn": "50mm Industrial Webbing",
+        "valueBn": "৫০ মিমি ওয়েবিং ব্যান্ড"
+      },
+      {
+        "labelEn": "Closure",
+        "labelBn": "লক সিস্টেম",
+        "valueEn": "Dual Magnetic Fidlock Cavity",
+        "valueBn": "ম্যাগনেটিক লক ক্যাভিটি"
+      },
+      {
+        "labelEn": "Hardware",
+        "labelBn": "হার্ডওয়্যার",
+        "valueEn": "Matte Anodized Zinc Alloy (TBC)",
+        "valueBn": "ম্যাট অ্যানোডাইজড জিংক অ্যালয় (TBC)"
+      }
+    ],
+    "materialsStatusEn": "Substrate density & water-repellency validation pending batch release.",
+    "materialsStatusBn": "স্থায়িত্ব ও পানি-প্রতিরোধ ক্ষমতা ব্যাচ টেস্টাধীন।",
+    "dimensionsEn": "290 mm × 210 mm × 75 mm (TBC)",
+    "dimensionsBn": "২৯০ মিমি × ২১০ মিমি × ৭৫ মিমি (TBC)",
+    "colors": [
+      "Stealth Noir",
+      "Gunmetal Chrome",
+      "Crimson Edge"
+    ],
+    "sizes": [
+      "Standard 6.2L"
+    ],
+    "stockStatus": "in_stock",
+    "stockQuantity": 8,
+    "isFeatured": true,
+    "isNewArrival": false,
+    "isSale": false,
+    "isPublished": true,
+    "imageAlt": "GROZ Monolith Crossbody Courier Bag with Angular Bevels",
+    "createdAt": "2026-10-16T12:00:00.000Z",
+    "updatedAt": "2026-10-25T10:00:00.000Z"
+  },
+  {
+    "id": "groz-specimen-03",
+    "slug": "angular-acetate-spectacles",
+    "nameEn": "Angular Silhouette Eyewear",
+    "nameBn": "কৌণিক সিলুয়েট সানগ্লাস",
+    "subtitleEn": "High-density square frame with beveled bridge",
+    "subtitleBn": "উচ্চ ঘনত্বের চৌকো ফ্রেম এবং বেভেলড ব্রিজ",
+    "category": "timepieces",
+    "priceBDT": 3600,
+    "salePriceBDT": 3200,
+    "image": "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg",
+    "gallery": [
+      "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg"
+    ],
+    "descriptionEn": "Sculptural eyewear milled with razor-flat planes and deep chamfer edges. Features subtle GROZ seahorse micro-engraving on the temple core.",
+    "descriptionBn": "তীক্ষ্ণ সমতল এবং গভীর খাঁজযুক্ত ভাস্কর্যসুলভ সানগ্লাস। হাতলে GROZ-এর প্রতীকী সি-হর্স সূক্ষ্মভাবে খোদাইকৃত।",
+    "specifications": [
+      {
+        "labelEn": "Frame Architecture",
+        "labelBn": "ফ্রেম আর্কিটেকচার",
+        "valueEn": "8mm Solid Monoblock Frame",
+        "valueBn": "৮ মিমি সলিড মনোব্লক ফ্রেম"
+      },
+      {
+        "labelEn": "Lens Specification",
+        "labelBn": "লেন্স স্পেসিফিকেশন",
+        "valueEn": "Category 3 UV400 Dark Grey",
+        "valueBn": "ক্যাটাগরি ৩ UV400 ডার্ক গ্রে"
+      },
+      {
+        "labelEn": "Hinge Mechanism",
+        "labelBn": "কব্জা ব্যবস্থা",
+        "valueEn": "7-Barrel Integrated Pin Hinge",
+        "valueBn": "৭-ব্যারেল ইন্টিগ্রেটেড পিন"
+      },
+      {
+        "labelEn": "Finish",
+        "labelBn": "ফিনিশ",
+        "valueEn": "Hand-Polished Obsidian Glass",
+        "valueBn": "হাতে পালিশকৃত অবসিডিয়ান ফিনিশ"
+      }
+    ],
+    "materialsStatusEn": "Polymer blend formulation subject to final optical verification.",
+    "materialsStatusBn": "পলিমার মিশ্রণ চূড়ান্ত অপটিক্যাল যাচাইয়ের অধীন।",
+    "dimensionsEn": "54 mm lens — 19 mm bridge — 145 mm temple (TBC)",
+    "dimensionsBn": "৫৪ মিমি লেন্স — ১৯ মিমি ব্রিজ — ১৪৫ মিমি হাতল (TBC)",
+    "colors": [
+      "Gloss Obsidian",
+      "Smoked Chrome"
+    ],
+    "sizes": [
+      "One Size (54-19-145)"
+    ],
+    "stockStatus": "low_stock",
+    "stockQuantity": 3,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "isSale": true,
+    "isPublished": true,
+    "imageAlt": "GROZ Angular Silhouette Eyewear in Hand-Polished Obsidian",
+    "createdAt": "2026-10-17T14:30:00.000Z",
+    "updatedAt": "2026-10-25T10:00:00.000Z"
+  },
+  {
+    "id": "groz-specimen-04",
+    "slug": "seahorse-emblem-talism",
+    "nameEn": "GROZ Emblem Accent Pin",
+    "nameBn": "GROZ প্রতীকী সি-হর্স পিন",
+    "subtitleEn": "The iconic hooked seahorse sculpted in solid cast metal",
+    "subtitleBn": "কঠিন ঢালাই ধাতুতে খোদাইকৃত আইকনিক সি-হর্স",
+    "category": "accessories",
+    "priceBDT": 1800,
+    "image": "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg",
+    "gallery": [
+      "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg"
+    ],
+    "descriptionEn": "The hallmark insignia of GROZ: a stylized seahorse terminating in a hook. Designed to anchor lapels, satchel straps, or heavy wool outerwear.",
+    "descriptionBn": "GROZ-এর স্বকীয় ট্রেডমার্ক প্রতীক: হুক বা নোঙরের মত বাঁকানো পুচ্ছবিশিষ্ট সামুদ্রিক ঘোড়া। কোটের ল্যাপেল বা ব্যাগে ব্যবহারের উপযোগী।",
+    "specifications": [
+      {
+        "labelEn": "Motif",
+        "labelBn": "মোটিফ",
+        "valueEn": "GROZ Seahorse Silhouette",
+        "valueBn": "GROZ সি-হর্স সিলুয়েট"
+      },
+      {
+        "labelEn": "Attachment",
+        "labelBn": "সংযুক্তি",
+        "valueEn": "Twin Screw-Back Clutch Post",
+        "valueBn": "টুইন স্ক্রু-ব্যাক ক্ল্যাচ"
+      },
+      {
+        "labelEn": "Face Dimension",
+        "labelBn": "পরিমাপ",
+        "valueEn": "42 mm vertical stance",
+        "valueBn": "৪২ মিমি উল্লম্ব উচ্চতা"
+      },
+      {
+        "labelEn": "Atelier Mark",
+        "labelBn": "মার্কিং",
+        "valueEn": "Maijdee Court Registry Stamp",
+        "valueBn": "মাইজদী কোর্ট রেজিস্ট্রি স্ট্যাম্প"
+      }
+    ],
+    "materialsStatusEn": "Base metal alloy currently undergoing oxidization stability tests.",
+    "materialsStatusBn": "ধাতব মিশ্রণ স্থায়িত্ব পরীক্ষার মধ্য দিয়ে যাচ্ছে।",
+    "dimensionsEn": "42 mm × 18 mm × 4 mm (TBC)",
+    "dimensionsBn": "৪২ মিমি × ১৮ মিমি × ৪ মিমি (TBC)",
+    "colors": [
+      "Polished Chrome",
+      "Matte Obsidian",
+      "Oxidized Crimson"
+    ],
+    "sizes": [
+      "Standard 42mm"
+    ],
+    "stockStatus": "in_stock",
+    "stockQuantity": 25,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isSale": false,
+    "isPublished": true,
+    "imageAlt": "GROZ Hallmark Cast Metal Seahorse Accent Pin",
+    "createdAt": "2026-10-18T09:00:00.000Z",
+    "updatedAt": "2026-10-25T10:00:00.000Z"
+  },
+  {
+    "id": "groz-specimen-05",
+    "slug": "monochrome-minimalist-cardholder",
+    "nameEn": "Monochrome Accordion Folio",
+    "nameBn": "মনোক্রোম অ্যাকর্ডিয়ন ফোলিও",
+    "subtitleEn": "Square geometry card vault with tactile edge paint",
+    "subtitleBn": "চৌকো জ্যামিতিক কার্ড ভল্ট ও টেক্সচার্ড এজ পেইন্ট",
+    "category": "leather",
+    "priceBDT": 2400,
+    "image": "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg",
+    "gallery": [
+      "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg"
+    ],
+    "descriptionEn": "Folded from a single continuous planar template with zero decorative stitching. Holds up to eight cards and folded currency with friction lock.",
+    "descriptionBn": "কোনো অতিরিক্ত সেলাই ছাড়া একক ছাঁচ থেকে ভাজ করা হয়েছে। আটটি কার্ড ও ভাঁজ করা নোট সহজে সংরক্ষণযোগ্য।",
+    "specifications": [
+      {
+        "labelEn": "Capacity",
+        "labelBn": "ধারণক্ষমতা",
+        "valueEn": "8 Cards + Banknote Slot",
+        "valueBn": "৮টি কার্ড + ব্যাংকনোট স্লট"
+      },
+      {
+        "labelEn": "Profile",
+        "labelBn": "প্রোফাইল",
+        "valueEn": "Ultra-thin 5mm flat fold",
+        "valueBn": "মাত্র ৫ মিমি পাতলা ভাঁজ"
+      },
+      {
+        "labelEn": "Edge Treatment",
+        "labelBn": "এজ ট্রিটমেন্ট",
+        "valueEn": "Triple Matte Black Seal",
+        "valueBn": "ট্রিপল ম্যাট ব্ল্যাক সিল"
+      },
+      {
+        "labelEn": "Branding",
+        "labelBn": "ব্র্যান্ডিং",
+        "valueEn": "Blind Debossed Wordmark",
+        "valueBn": "ব্লাইন্ড ডিবসড ওয়ার্ডমার্ক"
+      }
+    ],
+    "materialsStatusEn": "Specimen substrate awaiting inaugural batch verification.",
+    "materialsStatusBn": "উপাদান নমুনা প্রথম ব্যাচ যাচাইয়ের অপেক্ষায়।",
+    "dimensionsEn": "102 mm × 70 mm × 5 mm (TBC)",
+    "dimensionsBn": "১০২ মিমি × ৭০ মিমি × ৫ মিমি (TBC)",
+    "colors": [
+      "Matte Black",
+      "Raw Concrete"
+    ],
+    "sizes": [
+      "Compact 8-Card"
+    ],
+    "stockStatus": "in_stock",
+    "stockQuantity": 18,
+    "isFeatured": false,
+    "isNewArrival": false,
+    "isSale": false,
+    "isPublished": true,
+    "imageAlt": "GROZ Monochrome Accordion Folio Wallet",
+    "createdAt": "2026-10-19T11:00:00.000Z",
+    "updatedAt": "2026-10-25T10:00:00.000Z"
+  },
+  {
+    "id": "groz-specimen-06",
+    "slug": "kimono-wrap-architectural-jacket",
+    "nameEn": "Atelier Wrap Kimono Jacket",
+    "nameBn": "অ্যাটেলিয়ার র্যাপ কিমোনো জ্যাকেট",
+    "subtitleEn": "Asymmetrical wrap front with reinforced belt loops",
+    "subtitleBn": "অপ্রতিসম র্যাপ ফ্রন্ট ও মজবুত বেল্ট লুপস",
+    "category": "outerwear",
+    "priceBDT": 7200,
+    "image": "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg",
+    "gallery": [
+      "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg"
+    ],
+    "descriptionEn": "A collarless, structured outer layer featuring deep drop shoulders and a heavy wrap closure. Pairs traditional eastern drape with modern utilitarian lines.",
+    "descriptionBn": "কলারহীন কাঠামোগত জ্যাকেট যাতে রয়েছে ড্রপ শোল্ডার এবং সুদৃঢ় র্যাপ ক্লোজার। ঐতিহ্যবাহী প্রাচ্য ড্রেপের সাথে আধুনিক ইউটিলিটির সমন্বয়।",
+    "specifications": [
+      {
+        "labelEn": "Silhouette",
+        "labelBn": "সিলুয়েট",
+        "valueEn": "Boxy Drop-Shoulder Wrap",
+        "valueBn": "বক্সি ড্রপ-শোল্ডার র্যাপ"
+      },
+      {
+        "labelEn": "Seam Construction",
+        "labelBn": "সিম কনস্ট্রাকশন",
+        "valueEn": "Bound French Seams",
+        "valueBn": "বাউন্ড ফ্রেঞ্চ সিম"
+      },
+      {
+        "labelEn": "Sleeve",
+        "labelBn": "হাতা",
+        "valueEn": "Wide Geometric Cuffs",
+        "valueBn": "প্রশস্ত জ্যামিতিক কাফ"
+      },
+      {
+        "labelEn": "Origin",
+        "labelBn": "উৎস",
+        "valueEn": "Maijdee Court Atelier Prototype",
+        "valueBn": "মাইজদী কোর্ট স্টুডিও প্রোটোটাইপ"
+      }
+    ],
+    "materialsStatusEn": "Physical textile weave under testing at Noakhali studio.",
+    "materialsStatusBn": "নোয়াখালী স্টুডিওতে টেক্সটাইল বয়ন পরীক্ষা চলছে।",
+    "dimensionsEn": "Chest 64 cm / Back Length 74 cm (TBC)",
+    "dimensionsBn": "বুক ৬৪ সেমি / পিছনের দৈর্ঘ্য ৭৪ সেমি (TBC)",
+    "colors": [
+      "Midnight Black",
+      "Chrome Mist"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "stockStatus": "in_stock",
+    "stockQuantity": 7,
+    "isFeatured": true,
+    "isNewArrival": true,
+    "isSale": false,
+    "isPublished": true,
+    "imageAlt": "GROZ Atelier Wrap Kimono Jacket in Drop Shoulder Cut",
+    "createdAt": "2026-10-20T16:00:00.000Z",
+    "updatedAt": "2026-10-25T10:00:00.000Z"
+  }
+]

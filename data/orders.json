@@ -1,0 +1,30 @@
+[
+  {
+    "id": "GROZ-26-2825",
+    "customerName": "Tanvir Ahmed",
+    "customerPhone": "01814026318",
+    "deliveryAddress": "House 14, Main Road, Maijdee Court, Noakhali",
+    "deliveryArea": "inside_noakhali",
+    "deliveryChargeBDT": 60,
+    "items": [
+      {
+        "productId": "groz-specimen-01",
+        "productName": "Archival Structured Trench",
+        "priceBDT": 7900,
+        "quantity": 1,
+        "color": "Obsidian Black",
+        "size": "S",
+        "image": "/assets/aistudio/FB_IMG_1792947438632_9dd0b6b3.jpg"
+      }
+    ],
+    "subtotalBDT": 7900,
+    "totalBDT": 7960,
+    "paymentMethod": "nagad",
+    "paymentNumber": "01814026318",
+    "transactionId": "8NL37920B",
+    "orderStatus": "Confirmed",
+    "paymentStatus": "Unverified",
+    "createdAt": "2026-10-25T17:59:14.193Z",
+    "updatedAt": "2026-10-25T17:59:58.569Z"
+  }
+]
